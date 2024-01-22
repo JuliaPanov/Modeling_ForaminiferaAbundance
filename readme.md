@@ -1,6 +1,6 @@
 Repository for data and code for publications: "Macroalgae dynamics control the epiphytic foraminiferal distribution in the northern Israeli Mediterranean rocky reefs: impact of invasion"
 
-**Model List:**
+**Presaved models:**
 
   _Index_RF_Regression.sav_ - Random forest (RF) regression examining the relationship between evenness index J’ and the encoded habitat factors such as water depth, season, sampling site, and host macroalage morphotypes.
 
@@ -11,10 +11,5 @@ Repository for data and code for publications: "Macroalgae dynamics control the 
   _Algae_RF.sav_ - Random forest model examining the relationship between macroalgae type (red or brown) and the changes in the relative abundance of the dominant foraminifera species.
 
 
-
-
-**File list:**
-
-Ecological_Encoded.txt
 
 
